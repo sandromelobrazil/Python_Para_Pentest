@@ -1,0 +1,13 @@
+1 - Instale o binário pywin32-223.win32-py2.7.exe
+
+2 - Instale todos os arquivos .whl com o pip
+	pip install arquivo.whl
+
+3 - Extraia todos os arquivos .tar.gz
+	Dentro de cada pasta realize os comandos de instalação
+		python setup.py build
+		python setup.py install
+
+4 - Descompacte o arquivo PyInstaller-3.3.1.tar.gz e e instale o PyInstaller
+	python setup.py build
+	python setup.py install

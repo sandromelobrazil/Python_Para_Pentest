@@ -1,0 +1,6 @@
+1 - Instale todos os arquivos .whl com o pip
+	pip install arquivo.whl
+
+2 - Descompacte o arquivo requests-2.18.4.tar.gz e e instale o Requests
+	python setup.py build
+	python setup.py install
